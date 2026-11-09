@@ -12,7 +12,7 @@ public class BinaryTree {
         this.root = root;
     }
 
-    // ================= 1. CONSTRUCCION =================
+    // ================= 1. CONSTRUCCIÓN =================
 
     public void insertRoot(Object data) {
         if (root == null) {
